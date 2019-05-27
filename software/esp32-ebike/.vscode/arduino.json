@@ -1,0 +1,8 @@
+{
+    "sketch": "esp32-ebike.ino",
+    "board": "esp32:esp32:esp32-evb",
+    "configuration": "FlashFreq=80,UploadSpeed=115200,PartitionScheme=default",
+    "arduino.logLevel": "verbose",
+    "port": "COM4",
+    "output": "./build"
+}
